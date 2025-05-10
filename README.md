@@ -3,7 +3,7 @@
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/europa-exploration.git
+git https://github.com/amitvishw/eem.git
 cd eem
 ```
 
@@ -12,18 +12,12 @@ cd eem
 ```css
 .
 ├── src
-
-/
 │ ├── Robot.py
 │ ├── Mission.py
 │ ├── Plateau.py
 │ └── constants
-
-/
 │ └── constants.py
 ├── tests
-
-/
 │ └── test_ *.py
 ├── main.py
 ├── requirements.txt
